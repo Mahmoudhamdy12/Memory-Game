@@ -90,8 +90,8 @@ body {
     pointer-events: none;
 }
 .memory-container .game-block .back img {
-    width: 140px;
-    height: 140px;
+    width: 170px;
+    height: 155px;
     margin-top: 15px;
     background-size: cover;
 }
