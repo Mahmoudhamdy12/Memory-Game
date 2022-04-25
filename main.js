@@ -104,3 +104,14 @@ function shuffle(array){
     
     return array;
 }
+
+
+
+
+function wordRepeat(word, n) {
+  // write your code here
+  let x = word.lenght;
+  return word.repeat(n).split(word[x])
+  
+}
+wordRepeat("CoderHub", 2)
